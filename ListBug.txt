@@ -1,2 +1,3 @@
 telsarnet.tokowifi.com
 elearning.ulm.ac.id
+bayar-staging.skillacademy.com
