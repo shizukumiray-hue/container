@@ -1,4 +1,6 @@
 rurimashiro.biz.id
 syifaa.rurimashiro.biz.id
+rurimashirostory.dpdns.org
+billa.rurimashirostory.dpdns.org
 vmees-vless-trojan-ss.manastesia.workers.dev
 dash-doh.manastesia.workers.dev
