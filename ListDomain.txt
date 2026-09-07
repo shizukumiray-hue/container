@@ -8,3 +8,4 @@ sebastian.yumiwandi.workers.dev
 lulu.xa507z7g.workers.dev
 vmess-proxy.singabedales5433.workers.dev
 udp.leviatanudp.workers.dev
+udp.relayudp.workers.dev
